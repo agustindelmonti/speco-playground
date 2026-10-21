@@ -15,4 +15,8 @@ En unos 30 segundos Speco comenta en tu PR qué cambia en el negocio y qué tare
 
     - **FR-012**: When a verified customer confirms a wire, the system MUST charge a fee of 1% of the amount, with a minimum of 2.00 USD
 
+## ¿Lo querés en tus repos?
+
+**[Instalá Speco](https://github.com/apps/speco-pr-review/installations/new)**: un clic, funciona con repos privados. Cada PR que cambie una spec recibe esta revisión.
+
 _Los datos de este repo son de ejemplo._
