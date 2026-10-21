@@ -52,7 +52,7 @@ A compliance analyst reviews a transfer that was held by a fraud rule and releas
 - **FR-002**: When the sum of a customer's wires in a calendar day exceeds the daily limit of their tier, the system MUST reject the wire
 - **FR-003**: System MUST set the daily limit to 5,000 USD for tier 1 customers and 25,000 USD for tier 2 customers
 - **FR-004**: System MUST set the daily limit to 10,000 USD for tier 1 customers
-- **FR-005**: When a wire is above 10,000 USD, the system MUST hold it for manual review by a compliance analyst
+- **FR-005**: When a wire is above 15,000 USD, the system MUST hold it for manual review by a compliance analyst
 - **FR-006**: When an analyst releases or rejects a held wire, the system MUST record who decided, when and why
 - **FR-007**: The system MUST handle suspicious transfers appropriately
 - **FR-008**: System MUST process held-transfer reviews quickly
